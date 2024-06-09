@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  course: one
+  start_hour: 2024-06-09 15:48:24
+  end_hour: 2024-06-09 15:48:24
+  weekday: 1
+  name: MyString
+  teacher: MyString
+  local: MyString
+
+two:
+  course: two
+  start_hour: 2024-06-09 15:48:24
+  end_hour: 2024-06-09 15:48:24
+  weekday: 1
+  name: MyString
+  teacher: MyString
+  local: MyString

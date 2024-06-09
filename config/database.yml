@@ -1,0 +1,13 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: landi
+  password: 489848
+  host: localhost
+  port: 5432
+
+
+development:
+  <<: *default
+  database: dsm_server_development
