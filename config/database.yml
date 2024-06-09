@@ -11,3 +11,7 @@ default: &default
 development:
   <<: *default
   database: dsm_server_development
+
+production:
+  <<: *default
+  database: dsm_server
