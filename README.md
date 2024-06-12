@@ -6,4 +6,5 @@ This application cover Lessons, Courses, Orders, Payments, Products, Sessions an
 
 
 * Ruby version: 3.3.2
-* Database: Postgres 14
+* Rails version: 8.0.0 alpha
+* Database version: Postgres 14.3
